@@ -1,13 +1,13 @@
 
 # Session
-MAM_ID = "" # MyAnonaMouse session, create one here: https://www.myanonamouse.net/preferences/index.php?view=security
+MAM_ID = "coK1SK3ybRH_5U6-t-zvtlQyyNkm7sFomDrKCDGNh2xsFq12U6E-nhEOwSKTSzS-hbHQOlAuODJvzEfBGLabv0lrBOQx4M8XZoycB_OXmEJ75FD8yZ2cENtXSFRYnNL2Bn0zFM5w82hDrPQeGWQsPKJylYc-C7Bjb3jPhXvZN5sJ5AomjkN0xFcDOl9AznaVjV79d-iOmEN5NcGK6VaRgXfSwqv217wpau_tDm-7PGjJK-IRnOlvoOiPQKgdLw34xWmIfWyfxxkXQsJUBDMr4rsZ7F1xcvOtCL-m" # MyAnonaMouse session, create one here: https://www.myanonamouse.net/preferences/index.php?view=security
 
 # Webhook
 DISCORD_WEBHOOK = "" # Discord webhook link for notifications (leave blank to disable)
 STATS_NOTIFICATION_INTERVAL = 60 * 60 # Time in seconds the script should wait until sending another statistics update (False to disable)
 
 # Automations
-AUTO_EXTRACT_DIR = "" # Automatically extract the downloaded torrents to specified directory (leave blank to disable)
+AUTO_EXTRACT_DIR = "storage/books" # Automatically extract the downloaded torrents to specified directory (leave blank to disable)
 AUTO_DEL_BATCH = True # Automatically delete batch archive files once automatically extracted
 AUTO_SPEND_POINTS = False # Automatically spend remaining bonus points on upload
 
